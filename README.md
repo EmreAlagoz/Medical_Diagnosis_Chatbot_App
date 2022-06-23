@@ -1,5 +1,5 @@
 ### Medical_Diagnosis_Chatbot_App
-#Medical Diagnosis Chatbot Application (Expert System) using Prolog and Python. \
+#Medical Diagnosis Chatbot Application (Expert System) using Prolog and Python.
 
 Dependencies \
 pip install pyswip==0.2.2 \
